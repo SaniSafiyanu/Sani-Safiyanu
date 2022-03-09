@@ -1,12 +1,12 @@
 ### Hallo! 👋  
 
-My Name is Sani. 
+- My Name is Sani. 
 
-A Petroleum Engineer, A Process Engineer, A Project Engineer, A Data Analyst and a Machine Learning Enthusiat! Whew! 😅
+- A Petroleum Engineer, A Process Engineer, A Project Engineer, A Data Analyst and a Machine Learning Enthusiat! Whew! 😅
 
-Here you will discover some of my projects, I hope you enjoy them!
+- 👀 I’m interested in data driven decision making ❕
 
-<h2>Projects I'm proud of</h2>
+<h2>Here you will discover some of my projects, I hope you enjoy them!</h2>
 <table>
   <thead align="center">
     <tr border: none;>
