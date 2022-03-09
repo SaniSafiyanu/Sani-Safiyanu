@@ -2,7 +2,7 @@
 
 My Name is Sani. 
 
-A Petroleum Engineer, A Process Engineer, A Project Engineer, A Data Analyst and a Machine Learning Enthusiat! Whew! :)
+A Petroleum Engineer, A Process Engineer, A Project Engineer, A Data Analyst and a Machine Learning Enthusiat! Whew! 😅
 
 Here you will discover some of my projects, I hope you enjoy them!
 
@@ -25,7 +25,7 @@ Here you will discover some of my projects, I hope you enjoy them!
   </tbody>
 </table>
 
-### More Projects Coming Soon!
+### More Projects Coming Soon ☺️ 
 
 
 
