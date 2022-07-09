@@ -2,7 +2,7 @@
 
 - My Name is Sani. 
 
-- A Petroleum Engineer, A Process Engineer, A Project Engineer, A Data Analyst and a Machine Learning Enthusiast! Whew! 😅
+- A Process Development Engineer, A Project Engineer, a Data Scientist and a Microsoft Certified Data Analyst! Whew! 😅
 
 - 👀 I’m interested in data driven decision making ❕
 
