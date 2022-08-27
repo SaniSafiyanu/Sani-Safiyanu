@@ -22,7 +22,7 @@
       <td>An analysis conducted using Microsoft Power BI, to find insights on how to maximize the revenue of a bike share program.</td>
         </tr>
       <tr>
-      <td align="center"><b>1</b></td>
+      <td align="center"><b>2</b></td>
       <td><a href="https://github.com/SaniSafiyanu/Data_Engineering"><b>Data Engineering Course courtsey of Data Talk Club!</b></a></td>
       <td>A capstone project on......</td>
         </tr>
