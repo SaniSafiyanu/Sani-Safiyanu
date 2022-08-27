@@ -24,7 +24,7 @@
       <tr>
       <td align="center"><b>2</b></td>
       <td><a href="https://github.com/SaniSafiyanu/Data_Engineering"><b>Data Engineering Course courtsey of Data Talk Club!</b></a></td>
-      <td>A capstone project on......</td>
+      <td>An ETL project built using: Docker, Cloud: GCP, Data Warehouse: BigQuery, Workflow orchestration: Airflow, Infrastructure as code (IaC): Terraform, Python 3, Batch processing: Spark, Google Cloud SDK ......</td>
         </tr>
   </tbody>
 </table>
