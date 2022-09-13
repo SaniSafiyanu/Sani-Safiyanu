@@ -28,7 +28,7 @@
         </tr>
       <tr>
       <td align="center"><b>3</b></td>
-      <td><a href="https://github.com/SaniSafiyanu/MachineLearningZoomcamp!"></b></a></td>
+      <td><a href="https://github.com/SaniSafiyanu/MachineLearningZoomcamp"></b></a></td>
       <td>A machine learning engineering course with weekly homeworks and personal projects</td>
         </tr>
   </tbody>
