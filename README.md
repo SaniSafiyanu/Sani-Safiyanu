@@ -26,6 +26,11 @@
       <td><a href="https://github.com/SaniSafiyanu/Data_Engineering"><b>Data Engineering Course courtsey of Data Talk Club!</b></a></td>
       <td>An ETL project built using: Docker, Cloud: GCP, Data Warehouse: BigQuery, Workflow orchestration: Airflow, Infrastructure as code (IaC): Terraform, Python 3, Batch processing: Spark, Google Cloud SDK.</td>
         </tr>
+      <tr>
+      <td align="center"><b>3</b></td>
+      <td><a href="https://github.com/SaniSafiyanu/MachineLearningZoomcamp!</b></a></td>
+      <td>A machine learning engineering course with weekly homeworks and personal projects</td>
+        </tr>
   </tbody>
 </table>
 
